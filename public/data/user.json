@@ -1,0 +1,17 @@
+{
+  "code": 0,
+  "data": {
+    "id": 0,
+    "headPortrait": "/data/image/headportrait.jpg",
+    "username": "顾伟",
+    "rank": "T2-1",
+    "email": "wei.gu@mobvista.com",
+    "attentionNum": 10,
+    "biddersRecordNum": 5,
+    "newsNum": 6,
+    "availableIntegral": 800,
+    "usedIntegral": 200,
+    "totalIntegral": 1000
+  },
+  "msg": "这是用户信息"
+}

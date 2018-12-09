@@ -1,0 +1,10 @@
+{
+  "code": 0,
+  "data": {
+    "id": 1,
+    "validScoreTotal": 1000,
+    "abatementScoreTotal": 200,
+    "workabilityScoreTotal": 800
+  },
+  "msg": "用户积分信息"
+}

@@ -1,0 +1,141 @@
+.productAuctionIntroduct {
+  //padding: 20px;
+  //box-sizing: border-box;
+  .detail_decoration {
+    display: flex;
+    height: 120px;
+    background: linear-gradient(90deg,#ff7f4e,#ff3131);
+    .currentintegral {
+      flex: 2;
+      line-height:120px;
+      text-align: center;
+      strong {
+        font-weight: bold;
+        font-size:34px;
+        color: #fff;
+        margin-right:30px;
+      }
+      span {
+        &:before {
+          content: "";
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+          background: url("/data/image/icon-clock.png");
+        }
+        color: #fefefe;
+      }
+    }
+    .countdown {
+      flex: 1;
+      text-align: center;
+      //background-color: #f7f7f7;
+      .countdown_text {
+        height: 50px;
+        line-height:70px;
+        color: #333;
+      }
+      .countdown_nums {
+        line-height:70px;
+        span {
+          padding: 3px 5px;
+          background-color: #fff;
+          color: #ed3f14;
+          border-radius: 3px;
+        }
+      }
+    }
+  }
+  .productName {
+    padding: 20px;
+    font-size: 32px;
+    color: #333;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height:46px;
+  }
+  .currentIntegral {
+    padding: 20px 0;
+    span {
+      margin-right:20px;
+    }
+    strong {
+      color: red;
+    }
+  }
+  .countDownTime {
+    background-color: #ed3f14;
+  }
+  .flexboxWrap {
+    margin: 20px 0;
+  }
+  .chooseIntegral{
+    padding: 20px;
+    label {
+      margin-right:20px;
+    }
+    .selectWrap {
+      width: 120px;
+      height: 58px;
+      border-radius: 20px;
+      outline: none;
+    }
+  }
+  .flex-demo {
+    padding: 16px 0;
+    border-radius: 4px;
+    background-clip: padding-box;
+  }
+  .productauctioninfo {
+    padding: 20px;
+  }
+}
+
+
+.productChangeIntroduct {
+  padding: 20px;
+  .productName {
+    font-size: 32px;
+    color: #333;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    line-height:46px;
+  }
+  .productChangeInfo {
+    padding: 16px 0;
+  }
+  .chooseAmount {
+    padding: 20px 0;
+    label {
+      margin-right:20px;
+    }
+    .selectWrap {
+      width: 120px;
+      height: 58px;
+      border-radius: 20px;
+      outline: none;
+    }
+  }
+}
+
+.float-right {
+  float: right;
+}
+.color-red {
+  color: red;
+  font-weight: bold;
+}
+.text-middle {
+  text-align: center;
+}
+.text-right {
+  text-align: right;
+}

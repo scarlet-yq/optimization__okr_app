@@ -1,0 +1,14 @@
+{
+  "code": 0,
+  "data": {
+      "avatar": "/data/image/headportrait.jpg",
+      "name": "顾伟",
+      "sex": "男",
+      "email": "wei.gu@mobvista.com",
+      "tel": "13888888888",
+      "rank": "T2-1",
+      "officeaddress": "金辉大厦31层",
+      "birth": "8月6号"
+  },
+  "msg": "个人信息"
+}

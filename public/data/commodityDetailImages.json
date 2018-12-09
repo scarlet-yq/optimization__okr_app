@@ -1,0 +1,37 @@
+{
+  "code": 0,
+  "data": {
+    "id": 0,
+    "imgsList": [
+      {
+        "img": "data/image/caramer1.jpg",
+        "title": ""
+      },
+      {
+        "img": "data/image/caramer2.jpg",
+        "title": ""
+      },
+      {
+        "img": "data/image/caramer3.jpg",
+        "title": ""
+      },
+      {
+        "img": "data/image/caramer4.jpg",
+        "title": ""
+      }
+    ],
+    "productName": "尼康（Nikon）D750专业全画幅单反数码照相机旅游拍摄 单机机身(不含镜头)",
+    "status": 0,
+    "statusText": "竞拍",
+    "currentIntegral": 200,
+    "countDownTime": "2018-11-24",
+    "startIntegral": 1,
+    "rangeIntegral": 1,
+    "price": 100,
+    "bindIntegralEnmu": [1, 2, 3],
+    "productEndIntegral": 121,
+    "stock": 13,
+    "amountEnum": [1, 2, 3]
+  },
+  "msg": "详情商品图片"
+}
